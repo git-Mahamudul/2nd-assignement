@@ -1,3 +1,11 @@
+
+.inter {
+  font-family: "Inter", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
 .container{
     background-color: #1A0B2E;
 }
@@ -88,8 +96,8 @@
     margin-bottom:101px;
 }
 .first-btn{
-    margin: 12.5px 20px 12.5px 48px;
-    width: 201px;
+    margin: 12.5px 20px 12.5px 47px;
+    width: 59%;
     height: 44px;
     border-radius: 10000px;
     background:linear-gradient(225deg,#9100F8,#FB09B4,#F7E93F);
@@ -100,7 +108,7 @@
 }
 .second-btn{
     margin-top: 14px;
-    width: 30%;
+    width:201px;
     height: 42px;
     border-radius: 10000px;
     border: 1px solid #00FF88;
